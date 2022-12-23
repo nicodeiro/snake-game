@@ -1,2 +1,2 @@
 # snake-game
-Snake Game Python
+Snake Game réalisé en Python.
